@@ -1,4 +1,5 @@
-#body{margin: 0,0,0,0}
+#body{ margin: 0;
+    padding: 0;}
 .header{
 	position:relative;
 	margin-left:auto;
@@ -322,4 +323,14 @@ text-decoration:none;
 	height:0.4vw;
 	background-color:#bb4465;
 	margin-top:0.9vw;
+}
+.down{
+	position:absolute;
+	height:4vw;
+	margin-left:73.5vw;
+	margin-top:98vw;
+}
+.down_logos{
+	width:1.8vw;
+	margin-left:0.5vw;
 }
