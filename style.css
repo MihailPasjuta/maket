@@ -524,23 +524,24 @@
 		font-weight:bold;
 		color:#b8dc58;
 		letter-spacing: 0.1vw;
+		text-align:center;
 	}
 	.iPad_mini_big{
 		position:absolute;
-		margin-top:5vw;
+		margin-top:8vw;
 		width:27vw;
 		margin-left:-2vw;
 	}
 	.iPad_mini{
 		position:absolute;
-		margin-top:16vw;
+		margin-top:19vw;
 		margin-left:15vw;
 		width:20vw;
 	}
 	.css_color_text{
 		position:absolute;
-		margin-top:6vw;
-		margin-left:12vw;
-		width:3vw;
+		margin-top:34vw;
+		margin-left:60vw;
+		width:12vw;
 	}
 }
