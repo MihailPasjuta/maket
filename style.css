@@ -390,10 +390,10 @@
 
 @media (max-width: 767px){
 	.header{
-	position:relative;
-	margin-left:auto;
-	margin-right:auto;
-	width: 100%;
+		position:relative;
+		margin-left:auto;
+		margin-right:auto;
+		width: 100%;
 	}
 	.header_content{
 		position:relative;
@@ -457,6 +457,7 @@
 		margin-top:13%;
 		text-align:left;
 		line-height:8vw;
+		margin-left:1vw;
 	}
 	.Reviews_text{ 
 		font-size:4vw;
@@ -479,7 +480,7 @@
 	}
 	.iPad_image{
 		position:absolute;
-		width:60vw;
+		width:55vw;
 		right:0%;
 		text-align:left;
 		top:10%;
@@ -521,15 +522,15 @@
 		margin-left:11vw;
 		margin-top:3%;
 		font-family: 'Cabin', Medium;
-		font-size:3vw;
+		font-size:4vw;
 		color: #848484;
 		text-align:justify;
 		height:80%;
 	}
 	.grid{
 		position:absolute;
-		margin-left:11vw;
-		width:75%;
+		margin-left:5vw;
+		width:88%;
 		float:right;
 		margin-top:4%;
 		font-family: 'Cabin', Medium;
@@ -541,7 +542,7 @@
 	.right_content{
 		position:relative;
 		width:100%;
-		margin-top:340vw;
+		margin-top:335vw;
 	}
 	.iPad_guide{
 		position:relative;
