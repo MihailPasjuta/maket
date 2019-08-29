@@ -505,8 +505,7 @@
 	
 	.right_content{
 		position:relative;
-		margin-left:11vw;
-		width:75%;
+		width:100%;
 		margin-top:340vw;
 	}
 	.iPad_guide{
@@ -517,6 +516,7 @@
 		font-size:4vw;
 		color: #a2a795;
 		margin-top:1%;
+		margin-left:2vw;
 		text-align:center;
 	}
 	.green_text{
@@ -530,18 +530,18 @@
 		position:absolute;
 		margin-top:8vw;
 		width:27vw;
-		margin-left:-2vw;
+		margin-left:7vw;
 	}
 	.iPad_mini{
 		position:absolute;
 		margin-top:19vw;
-		margin-left:15vw;
+		margin-left:23vw;
 		width:20vw;
 	}
 	.css_color_text{
 		position:absolute;
 		margin-top:34vw;
-		margin-left:60vw;
+		margin-left:69vw;
 		width:12vw;
 	}
 }
