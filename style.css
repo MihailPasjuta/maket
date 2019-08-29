@@ -284,12 +284,22 @@
 		font-size:1.5vw;
 		z-index:4;
 	}
+	.twenty_count{
+		font-size:3.6vw;
+		font-family: 'Archivo Black', sans-serif;
+		padding-bottom:1vw;
+		line-height:0.3
+	}
 	.twelf_week_text{
 		text-align:center;
 		margin-top:5.8vw;
 		color:#ffffff;
 		font-family: 'Julius Sans One', sans-serif;
 		font-size:2vw;
+	}
+	.twenty_small_text{
+		font-size:1.4vw;
+		font-family: 'Cabin', Medium;
 	}
 	.twelf_week_btn{
 		text-decoration:none;
@@ -323,6 +333,9 @@
 		margin-right:1.5vw;
 		margin-bottom:0.7vw;
 	}
+	.Mailing_small_text{
+		font-size:0.8vw;
+	}
 	.Mailing_input{
 		margin-left:1.5vw;
 		margin-right:1.5vw;
@@ -330,6 +343,28 @@
 		width:13.5vw;
 		height:1.5vw;
 		font-size:1vw;
+	}
+	.Mailing_input2{
+		margin-left:1.5vw;
+		margin-right:1.5vw;
+		margin-top:0.5vw;
+		width:13.5vw;
+		height:1.5vw;
+		font-size:1vw;
+	}
+	.Mailing_btn{
+		text-decoration:none;
+		font-family: 'Cabin', Medium;
+		color:#ffffff;
+		font-size:1.2vw;
+		background-color: #58d1dc;
+		padding: 0.5vw 1.5vw;
+		text-align: center;
+		display: inline-block;
+		border-radius:4px;
+		margin-left:3.3vw;
+		margin-top:0.7vw;
+		height:1.1vw;
 	}
 	.line_down{
 		position:relative;
@@ -513,7 +548,7 @@
 	}
 	.text_guide{
 		font-family: 'Cabin', Medium;
-		font-size:4vw;
+		font-size:7vw;
 		color: #a2a795;
 		margin-top:1%;
 		margin-left:2vw;
@@ -542,6 +577,134 @@
 		position:absolute;
 		margin-top:34vw;
 		margin-left:69vw;
-		width:12vw;
+		width:15vw;
+	}
+	
+	.twelf_week{
+		position:relative;
+		margin-top:50vw;
+		width:100%;
+		text-align:center;
+	}
+	.twelf_week_back{
+		position:absolute;
+		width:100%;
+		height:87vw;
+		margin-top:5vw;
+		background-color:#86e7f0;
+		
+	}
+	.twelf_week_circle{
+		position:absolute;
+		width:30vw;
+		height:30vw;
+		margin-left:32vw;
+		border-radius:100px;
+		background-color:#ef809f;
+		text-align:center;
+		display:table-cell;
+		color:#ffffff;
+		font-family: 'Cabin', Medium;
+		font-size:6vw;
+		z-index:4;
+	}
+		.twenty_count{
+		font-size:14vw;
+		font-family: 'Archivo Black', sans-serif;
+		padding-bottom:1vw;
+		line-height:0.5
+	}
+	.twelf_week_text{
+		text-align:center;
+		margin-top:30vw;
+		color:#ffffff;
+		font-family: 'Julius Sans One', sans-serif;
+		font-size:11vw;
+	}
+	.twenty_small_text{
+		font-size:8vw;
+		font-family: 'Cabin', Medium;
+	}
+	.twelf_week_btn{
+		text-decoration:none;
+		font-family: 'Cabin', Medium;
+		color:#ffffff;
+		font-size:6vw;
+		background-color: #58d1dc;
+		padding: 1vw 4vw;
+		text-align: center;
+		display: inline-block;
+		border-radius:4px;
+		margin-top:6vw;
+		height:7vw;
+	}
+	
+	.Mailing{
+		position:relative;
+		margin-top:145vw;
+		width:100%;
+		height:87vw;
+		background-color:#393a39;
+		color:#ffffff;
+		font-family: 'Overpass', sans-serif;
+		text-align:justify;
+		font-size:9vw;
+		line-height:5vw;
+	}
+	.Mailing_text{
+		position:absolute;
+		margin-top:7vw;
+		margin-left:6vw;
+		margin-right:6vw;
+		margin-bottom:0.7vw;
+		
+	}
+	.Mailing_small_text{
+		font-size:5vw;
+	}
+	.Mailing_input{
+		position:absolute;
+		margin-left:6vw;
+		margin-right:6vw;
+		margin-top:37vw;
+		width:82vw;
+		height:10vw;
+		font-size:6vw;
+	}
+	.Mailing_input2{
+		position:absolute;
+		margin-left:6vw;
+		margin-right:6vw;
+		margin-top:51vw;
+		width:82vw;
+		height:10vw;
+		font-size:6vw;
+	}
+	.Mailing_btn{
+		text-decoration:none;
+		font-family: 'Cabin', Medium;
+		color:#ffffff;
+		font-size:6vw;
+		background-color: #58d1dc;
+		padding: 2vw 4vw;
+		text-align: center;
+		display: inline-block;
+		border-radius:4px;
+		margin-top:70vw;
+		height:7vw;
+		margin-left:26vw;
+		margin-right:26vw;
+	}
+	
+	.down{
+		position:absolute;
+		height:4vw;
+		margin-left:5.5vw;
+		margin-top:8vw;
+		margin-bottom:15vw;
+	}
+	.down_logos{
+		width:10vw;
+		margin-left:13vw;
 	}
 }
